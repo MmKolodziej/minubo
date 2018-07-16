@@ -1,12 +1,12 @@
 {
-    "name": "spryker-eco/minubo",
+    "name": "MmKolodziej/minubo",
     "description": "Minubo module",
     "license": "MIT",
     "require": {
         "php": ">=7.1",
         "spryker/flysystem-aws3v3-file-system": "^1.0.0",
         "spryker/file-system": "^1.0.0",
-        "spryker/oms": "^8.1.0",
+        "spryker/oms": "^8.0.1",
         "spryker/sales": "^8.0.0",
         "spryker/util-encoding": "^2.0.0"
     },
